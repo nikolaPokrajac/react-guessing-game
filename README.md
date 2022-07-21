@@ -17,7 +17,7 @@ There are two methods for getting started with this repo.
 
 #### Not Familiar with Git?
 
-Click [here](git@github.com:nikolaPokrajac/react-guessing-game.git) then click on "Clone or download" and download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+Click [here](https://github.com/nikolaPokrajac/react-guessing-game.git) then click on "Clone or download" and download the .zip file. Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
